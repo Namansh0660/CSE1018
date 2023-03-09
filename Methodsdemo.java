@@ -17,5 +17,6 @@ public class Methodsdemo
         int volume = boxvolume(4,5,6);
         System.out.println(volume);
         printLine();
+        System.out.println(boxvolume(6,5,4));
     }
 }
