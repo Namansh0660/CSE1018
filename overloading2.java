@@ -37,9 +37,9 @@ class Box
         Box b1=new Box();
         Box b2=new Box(5);
         Box b3=new Box(1,2,4);
-        System.out.println("From b0 we will get : "+b0.volume();
-        System.out.println("From b1 we will get : "+b1.volume();
-        System.out.println("From b2 we will get : "+b2.volume();
-        System.out.println("From b3 we will get : "+b3.volume();
+        System.out.println("From b0 we will get : "+b0.volume());
+        System.out.println("From b1 we will get : "+b1.volume());
+        System.out.println("From b2 we will get : "+b2.volume());
+        System.out.println("From b3 we will get : "+b3.volume());
     }
 }
