@@ -16,5 +16,5 @@ class mainmethod{
     }
 }
 
-//to compile  javac -d . mainmethod.java
-//to run      java MTech.mainmenthod
+//To complie   javac -d . mainmethod.java (javac -d . classname.java)
+//To run       java Mtech.mainmethod (java packagename.classname)
