@@ -10,5 +10,6 @@ class StringLearning1
         System.out.println(s2.hashCode());
         s2="pqr";
         System.out.println(s2);
+        System.out.println(s2.hashCode());
     }
 }
