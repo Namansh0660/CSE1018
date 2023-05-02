@@ -33,8 +33,26 @@ class C{
     }
 }
 
+//javac -d . A.java
+//javac -d . D.ava
+//java mypack.D
+
+
+//save by D.java
+//in 4th java
+package mypack;
+class D
+{
+    public static void main(String args[])
+    {
+        pack.A obj = new pack.A();
+        obj.msg();
+    }
+}
 
 
 //javac -d . A.java
 //javac -d . C.java
 //java mypack.C
+
+
