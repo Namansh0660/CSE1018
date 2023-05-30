@@ -1,5 +1,6 @@
 import java.util.*;
 public class InputStreamExample          //collectionDemo
+
 {
    public static void main(String args[])
     {
@@ -14,6 +15,8 @@ public class InputStreamExample          //collectionDemo
         System.out.println(alist);
         System.out.println(alist.get(3));
         alist.set(0,95);
+        System.out.println(alist);
+        alist.remove(5);
         System.out.println(alist);
      }
 }
